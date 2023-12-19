@@ -1,4 +1,5 @@
-# vuex-project
+# Pinia-project
+![pin](https://github.com/HamidEidy/Pinia-todo/assets/148962898/c6320389-cb44-4c96-a15b-789b0523cf5e)
 
 ## Project setup
 ```
